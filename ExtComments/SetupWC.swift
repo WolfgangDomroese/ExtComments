@@ -94,7 +94,7 @@ class FileTypeBox: NSBox {
     }
 }
 
-class SetGroupsObject: NSObject {   //data source for NSOutlineView
+class SetGroupsObject: NSObject {   //data source for NSad
 
     static var rootItem: SetGroupsObject?
         
